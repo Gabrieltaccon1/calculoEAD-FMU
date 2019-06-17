@@ -1,0 +1,11 @@
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\obj\Debug\netcoreapp2.2\eadFMU.csprojAssemblyReference.cache
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\obj\Debug\netcoreapp2.2\eadFMU.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\obj\Debug\netcoreapp2.2\eadFMU.AssemblyInfoInputs.cache
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\obj\Debug\netcoreapp2.2\eadFMU.AssemblyInfo.cs
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\bin\Debug\netcoreapp2.2\eadFMU.deps.json
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\bin\Debug\netcoreapp2.2\eadFMU.runtimeconfig.json
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\bin\Debug\netcoreapp2.2\eadFMU.runtimeconfig.dev.json
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\bin\Debug\netcoreapp2.2\eadFMU.dll
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\bin\Debug\netcoreapp2.2\eadFMU.pdb
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\obj\Debug\netcoreapp2.2\eadFMU.dll
+C:\Users\Treinamento 4\source\repos\eadFMU\eadFMU\obj\Debug\netcoreapp2.2\eadFMU.pdb
